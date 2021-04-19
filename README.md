@@ -1,1 +1,0 @@
-# tiger_eye_img_classifier
